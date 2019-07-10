@@ -1,0 +1,8 @@
+Settings:
+  Username: root
+  Password: KufWTet8dkafIiLB
+  Host: panel.itslarsworld.nl
+  DB: SkyblockTest
+  Port: '3306'
+Data:
+  last_island: 0,0

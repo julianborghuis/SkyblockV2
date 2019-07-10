@@ -1,0 +1,13 @@
+name: Skyblock
+version: ${project.version}
+main: nl.vlcraft.skyblock.Main
+authors: [ItsLars]
+description: VLCraft Skyblock plugin
+
+commands:
+  island:
+    description: Eiland management command
+    aliases: [is]
+  skyblock:
+    description: Skyblock basis command
+    aliases: [sb]
